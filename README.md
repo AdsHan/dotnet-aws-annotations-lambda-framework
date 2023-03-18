@@ -1,5 +1,5 @@
 # dotnet-aws-annotations-lambda-framework
-Demonstração da utilização do Lambda Annotations como modelo de programação para escrever funções .NET Lambda.
+Demonstração da utilização de Lambda Annotations como modelo de programação para escrever funções .NET Lambda.
 
 # Como executar:
 - Clonar / baixar o repositório em seu workplace.
