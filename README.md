@@ -7,4 +7,4 @@ Demonstração da utilização de Lambda Annotations como modelo de programaçã
 - Alterar no projeto as credenciais AWS_ACCESS_KEY e AWS_SECRET_KEY de acordo com sua conta AWS.
 	
 # Sobre
-Este projeto foi desenvolvido por Anderson Hansen sob [MIT license](LICENSE).
+Este projeto foi desenvolvido por Anderson Hansen.
